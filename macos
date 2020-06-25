@@ -366,7 +366,7 @@ Keep folders on top when sorting by name
 # #defaults write com.apple.dock persistent-apps -array
 
 # Show only open applications in the Dock
-defaults write com.apple.dock static-only -bool true
+# defaults write com.apple.dock static-only -bool true
 
 # Don’t animate opening applications from the Dock
 # defaults write com.apple.dock launchanim -bool false
@@ -689,7 +689,6 @@ defaults write com.google.Chrome.canary DisablePrintPreview -bool true
 
 for app in "Activity Monitor" \
 	"cfprefsd" \
-	"Dock" \
 	"Finder" \
 	"Google Chrome Canary" \
 	"Google Chrome" \
