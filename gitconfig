@@ -1,6 +1,6 @@
 [user]
-  name = Sebastian Margozzini
-  email = smargozzini1@gmail.com
+  name = Nicolas Vielva
+  email = nvielva@uc.cl
 
 [credential]
   helper = osxkeychain
@@ -66,7 +66,7 @@
   protocol = https
 
 [github]
-  user = smargozzini
+  user = nvielva
 
 [pager]
   diff = diff-so-fancy | less --tabs=1,5 -RFX
